@@ -8,6 +8,6 @@ I design and build backend systems: event-driven services, data pipelines, and A
 
 **Featured work**
 - [GigWork](link) — one line: what it does + one number (throughput, latency)
-- [Backend engineering notes]([notes-site-link](https://i-am-rashmi.github.io/backend-engineer-notes/)) — my write-ups on databases, Kafka, and system design
+- [Backend engineering notes](https://i-am-rashmi.github.io/backend-engineer-notes/) — my write-ups on databases, Kafka, and system design
 
 📫 [LinkedIn](https://www.linkedin.com/in/rashmi-n-74a71aa8/) · rashminiranjan96@gmail.com
